@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/docs/
+!/templates/
+/docs/*
+!/docs/*.md
+/templates/*
+!/templates/*.md
